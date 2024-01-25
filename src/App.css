@@ -1,9 +1,7 @@
 .App {
-  display: flex;
-  flex-direction: row;
-  margin: 20px;
-  font-size: 14px;
-  background-color: grey;
+  margin: 5px;
+  font-size: 16px;
+  background-color: white;
 }
 
 .Row {
@@ -12,30 +10,51 @@
 }
 
 .Main {
-  padding: 20px;
+  padding: 10px;
   padding-left: 0px;
+}
+
+.FirstPage {
+  height: 1000px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 100px;
+}
+
+.SecondPage {
+  margin: 10px;
+}
+
+.ThirdPage {
+  padding: 10px;
 }
 
 .Aside {
   display: flex;
   flex-direction: column;
-  width: 650px;
-  padding: 20px;
+  width: 900px;
+  padding: 10px;
 }
 
 .Avatar {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 150px;
-  margin-bottom: 25px;
+  margin: 5px;
+  padding: 20px;
+  gap: 10px;
 }
 
 .Profile {
+  border: 1px solid grey;
   border-radius: 20px;
-  background-color: #d3d3d3;
+  background-color: white;
   margin-bottom: 10px;
   padding: 20px;
+  height: 150px;
 }
 
 .Section {
@@ -43,14 +62,19 @@
   border: 1px solid grey;
   border-radius: 20px;
   padding: 20px;
-  background-color: lightgrey;
-}
-
-.Contact {
+  background-color: white;
 }
 
 .Main {
   margin-bottom: 20px;
+}
+
+.Name {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .Contact {
@@ -96,16 +120,21 @@
   font-weight: bold;
 }
 
+.XPDate {
+  font-weight: bold;
+  width: 230px;
+}
+
 .Date {
   font-weight: bold;
-  width: 200px;
+  width: 150px;
 }
 
 .Wrap {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  height: 150px;
+  height: 120px;
 }
 
 .Language {
@@ -116,6 +145,10 @@
   align-items: center;
   font-size: 15px;
   margin-left: 10px;
+}
+
+#Skills {
+  height: 625px;
 }
 
 .SkillCategory {
@@ -136,7 +169,7 @@
 
 .Percentage {
   display: flex;
-  width: 150px;
+  width: 100px;
   height: 10px;
   border: 1px solid black;
   border-radius: 50px;
@@ -155,10 +188,11 @@
 
 ul {
   padding-left: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 li {
+  margin-bottom: 3px;
 }
 
 .bold {
