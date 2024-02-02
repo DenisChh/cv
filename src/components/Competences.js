@@ -245,6 +245,30 @@ const Competences = () => {
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
+                            </div>
+                            <div className="Language">
+                                Microsoft Azure
+                            </div>
+                        </div>
+                        <div className="Row">
+                            <div className="Percentage">
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
+                            </div>
+                            <div className="Language">
+                                Render Cloud
+                            </div>
+                        </div>
+                        <div className="Row">
+                            <div className="Percentage">
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
                                 <div className="Whitequartile" />
                                 <div className="Whitequartile" />
                             </div>
@@ -273,43 +297,19 @@ const Competences = () => {
                                 <div className="Whitequartile" />
                             </div>
                             <div className="Language">
+                                Google Firebase
+                            </div>
+                        </div>
+                        <div className="Row">
+                            <div className="Percentage">
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
+                            </div>
+                            <div className="Language">
                                 NGINX
-                            </div>
-                        </div>
-                        <div className="Row">
-                            <div className="Percentage">
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Whitequartile" />
-                            </div>
-                            <div className="Language">
-                                Render
-                            </div>
-                        </div>
-                        <div className="Row">
-                            <div className="Percentage">
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Whitequartile" />
-                            </div>
-                            <div className="Language">
-                                Azure
-                            </div>
-                        </div>
-                        <div className="Row">
-                            <div className="Percentage">
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Greenquartile" />
-                                <div className="Whitequartile" />
-                            </div>
-                            <div className="Language">
-                                Firebase
                             </div>
                         </div>
                     </div>

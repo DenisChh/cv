@@ -1,4 +1,4 @@
-import logo from './assets/logo.png';
+import photo from './assets/photo.jpeg';
 
 import './App.css';
 import Contact from './components/Contact';
@@ -16,10 +16,8 @@ function App() {
       <div className="FirstPage">
         <div className="Aside">
           <div className="Avatar">
-            <img src={logo} width="100" height="100" alt="Logo" />
-            <div className="Name">
-              Denis Chheang
-            </div>
+            <img src={photo} width="150" height="150" alt="Logo" />
+            <span className="Name">Denis Chheang</span>
           </div>
           <Contact />
           <Interets />

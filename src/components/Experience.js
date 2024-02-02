@@ -2,7 +2,7 @@ import queen from '../assets/queen.png';
 
 const Experience = () => {
     return (
-        <div className="Section">
+        <div className="Section" id="Xp">
             <div className="Header">
                 <img src={queen} width={30} height={30} alt="pawn" />
                 Expérience professionnelle

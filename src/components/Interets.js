@@ -26,7 +26,7 @@ const Interets = () => {
             Piano
           </li>
           <li>
-            Théâtre
+            Improvisation théâtrale
           </li>
           <li>
             Cinéma

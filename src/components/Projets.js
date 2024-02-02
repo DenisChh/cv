@@ -2,7 +2,7 @@ import bishop from '../assets/bishop.png';
 
 const Projets = () => {
     return (
-        <div className="Section">
+        <div className="Section" id="Projects">
             <div className="Header">
                 <img src={bishop} width={30} height={30} alt="pawn" />
                 Projets
@@ -32,7 +32,7 @@ const Projets = () => {
                     </li>
                 </ul>
                 <li>
-                    <span className="bold">Rushes de l'école 42</span>
+                    <span className="bold">42 Rushes</span>
                 </li>
                 <ul>
                     <li>
