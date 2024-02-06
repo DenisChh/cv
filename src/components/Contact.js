@@ -29,7 +29,7 @@ const Contact = () => {
                 <div className='IconWithText'>
                     <AiFillMail />
                     <div>
-                        denis.c1@live.fr
+                        chheangdenis@gmail.com
                     </div>
                 </div>
             </div>
