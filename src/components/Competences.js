@@ -319,7 +319,7 @@ const Competences = () => {
                         Outils
                     </span>
                     <div>
-                        VSCode, Github, Pgadmin
+                        VSCode, Github, Pgadmin, Trello
                     </div>
                 </li>
                 <li className="SkillCategory">
@@ -327,7 +327,7 @@ const Competences = () => {
                         Autres
                     </span>
                     <div>
-                        Oauth2, Google2fa, Google Playstore
+                        Oauth2, Google2fa, Google Playstore, Stripe, React Geolocation
                     </div>
                 </li>
             </ul >
