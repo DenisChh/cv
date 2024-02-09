@@ -1,63 +1,72 @@
+@media print {
+  .Pages {
+    page-break-after: always;
+  }
+}
+
+body {
+  width: 100vw;
+  background-color: black;
+  margin: 0px;
+}
+
 .App {
-  margin: 5px;
   font-size: 16px;
-  background-color: black;
 }
 
-.Row {
+.Pages {
+}
+
+#FirstPage {
+}
+
+.Profile {
   display: flex;
-  flex-direction: row;
-}
-
-.Main {
-  background-color: black;
-}
-
-.FirstPage {
-  height: 1050px;
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 100px;
-}
-
-.SecondPage {
   margin: 20px;
-}
-
-.ThirdPage {
-  margin: 20px;
-}
-
-.Aside {
-  display: flex;
-  flex-direction: column;
-  width: 1100px;
-  background-color: black;
+  justify-content: center;
 }
 
 .Avatar {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  height: 250px;
-  gap: 10px;
-  color: black;
-}
-
-.Profile {
-  display: flex;
-  height: 246px;
   align-items: center;
+  width: 30%;
+  height: 100%;
+  gap: 10px;
+  margin-right: 10px;
 }
 
-.Section {
-  border: 1px solid black;
-  border-radius: 20px;
-  padding: 20px;
-  background-color: white;
-  margin: 10px;
+#Profile {
+  width: 60%;
+  height: 100%;
+}
+
+.Main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px;
+}
+
+.MainAside {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 10px;
+  width: 30%;
+}
+
+.Contact {
+
+}
+
+.ContactEntry {
+  margin-bottom: 5px;
+}
+
+#Skills {
+  width: 60%;
 }
 
 .Name {
@@ -66,23 +75,38 @@
   font-weight: bold;
 }
 
-.Contact {}
-
-.ContactEntry {
-  margin-bottom: 5px;
+.Section {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: white;
 }
 
-.Xp {
-  margin: inherit;
+#SecondPage {
 }
 
-.Project {
-  width: 50%;
+#Projects {
+  width: 90%;
+  margin: 20px;
 }
 
-.Formation {
+#ThirdPage {
+  width: 90%;
+  margin: 20px;
+}
+
+#Xp {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#Formation {
+  width: 100%;
+}
+
+.FormationEntry {
   display: flex;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .Header {
@@ -188,12 +212,7 @@ li {
   height: 100;
 }
 
-#Skills {
-  height: 640px;
-  margin-top: 10px;
-  border-left: none;
-  border-top: none;
-}
-
-#Xp {
+.Row {
+  display: flex;
+  flex-direction: row;
 }

@@ -28,6 +28,9 @@ const Projets = () => {
                         Développement de l'<span className="bold">UI</span> et de l'<span className="bold">UX</span> en <span className="bold">React</span>
                     </li>
                     <li>
+                        Interface graphique avec la libraire <span className="bold">Canvas</span>
+                    </li>
+                    <li>
                         Mise en place de l'api en <span className="bold">NestJS</span>
                     </li>
                 </ul>

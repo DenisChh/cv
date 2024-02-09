@@ -2,12 +2,12 @@ import pawn from '../assets/pawn.png';
 
 const Formation = () => {
     return (
-        <div className="Section">
+        <div className="Section" id="Formation">
             <div className="Header">
                 <img src={pawn} width={30} height={30} alt="pawn" />
                 Formation
             </div>
-            <div className="Formation">
+            <div className="FormationEntry">
                 <div className="Date">
                     2020 - 2023
                 </div>
@@ -21,7 +21,7 @@ const Formation = () => {
                 </div>
 
             </div>
-            <div className="Formation">
+            <div className="FormationEntry">
                 <div className="Date">
                     Obtenu en 2020
                 </div>
@@ -35,7 +35,7 @@ const Formation = () => {
                 </div>
 
             </div>
-            <div className="Formation">
+            <div className="FormationEntry">
                 <div className="Date">
                     2010 - 2014
                 </div>
@@ -48,7 +48,7 @@ const Formation = () => {
                     </div>
                 </div>
             </div>
-            <div className="Formation">
+            <div className="FormationEntry">
                 <div className="Date">
                     Obtenu en 2010
                 </div>

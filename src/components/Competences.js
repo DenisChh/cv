@@ -70,12 +70,11 @@ const Competences = () => {
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
-                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
                             </div>
                             <div className='Language'>
                                 JS / TS
                             </div>
-
                         </div>
                         <div className="Row">
                             <div className="Percentage">
@@ -114,34 +113,6 @@ const Competences = () => {
                                 PostgreSQL
                             </div>
                         </div>
-
-                        {/*<div className="Language">
-                  <img src={c} width={80} height={80} alt="c" />
-                </div>
-                <div className="Language">
-                  <img src={cpp} width={80} height={80} alt="c" />
-                </div>
-                <div className="Language">
-                  <img src={java} width={80} height={80} alt="c" />
-                </div>
-                <div className="Language">
-                  <img src={web} width={150} height={80} alt="c" />
-                </div>
-                <div className="Language">
-                  <img src={js} width={150} height={80} alt="c" />
-                </div>
-                <div className="Language">
-                  HTML/CSS
-                </div>
-                <div className="Language">
-                  PHP
-                </div>
-                <div className="Language">
-                  MySQL
-                </div>
-                <div className="Language">
-                  PostgreSQL
-  </div>*/}
                     </div>
                 </li>
                 <li className="SkillCategory">
@@ -158,7 +129,7 @@ const Competences = () => {
                                 <div className="Whitequartile" />
                             </div>
                             <div className="Language">
-                                React
+                                ReactJS
                             </div>
                         </div>
                         <div className="Row">
@@ -191,7 +162,7 @@ const Competences = () => {
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
-                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
                             </div>
                             <div className="Language">
                                 TypeORM
@@ -319,7 +290,7 @@ const Competences = () => {
                         Outils
                     </span>
                     <div>
-                        VSCode, Github, Pgadmin, Trello
+                        Github, Trello, Vim, VSCode, Pgadmin
                     </div>
                 </li>
                 <li className="SkillCategory">

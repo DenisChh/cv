@@ -1,9 +1,14 @@
 import king from '../assets/king.png';
+import photo from '../assets/photo.jpeg'
 
 const Profil = () => {
   return (
     <div className="Profile">
-      <div className="Section">
+      <div className="Avatar">
+        <img src={photo} width="150" height="150" alt="Logo" />
+        <span className="Name">Denis Chheang</span>
+      </div>
+      <div className="Section" id="Profile">
         <div className="Header">
           <img src={king} width={30} height={30} alt="pawn" />
           <div>
