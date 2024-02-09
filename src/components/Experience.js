@@ -34,7 +34,7 @@ const Experience = () => {
                     Mise en place de la <span className="bold">base de données </span> en <span className="bold">PostgreSQL</span>
                 </li>
                 <li>
-                    Developpement d'une interface de gestion de base de données pour le <span className="bold">backoffice</span> en <span className="bold">React</span>
+                    Développement d'une interface de gestion de base de données pour le <span className="bold">backoffice</span> en <span className="bold">React</span>
                 </li>
                 <li>
                     Intégration d'un système d'<span className="bold">authentification via Firebase, Oauth2 et JWT Tokens</span>

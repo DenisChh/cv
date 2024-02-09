@@ -44,7 +44,7 @@ const Formation = () => {
                         Etudes de médecine et de psychologie
                     </div>
                     <div>
-                        Universite Paris Descartes (75)
+                        Université Paris Descartes (75)
                     </div>
                 </div>
             </div>

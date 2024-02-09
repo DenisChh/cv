@@ -25,31 +25,17 @@ const Projets = () => {
                         Intégration d'une fonctionnalité de matchmaking
                     </li>
                     <li>
-                        Développement de l'<span className="bold">UI</span> et de l'<span className="bold">UX</span> en <span className="bold">React</span>
+                        Développement de l'<span className="bold">UI</span> et de l'<span className="bold">UX</span> en <span className="bold">ReactJS</span>
                     </li>
                     <li>
-                        Interface graphique avec la libraire <span className="bold">Canvas</span>
+                        Interface graphique utilisant la libraire <span className="bold">Canvas</span>
                     </li>
                     <li>
                         Mise en place de l'api en <span className="bold">NestJS</span>
                     </li>
                 </ul>
                 <li>
-                    <span className="bold">42 Rushes</span>
-                </li>
-                <ul>
-                    <li>
-                        Projets en groupe de 2 à 3
-                    </li>
-                    <li>
-                        Objectif : développer des solvers en C en un weekend
-                    </li>
-                    <li>
-                        Problèmes algorithmiques abordés : problème des n dames (backtracking), problème du plus grand carré
-                    </li>
-                </ul>
-                <li>
-                    <span className="bold">Mise en place d'un cluster d'applications web </span> (Wordpress, phpMyAdmin, Grafana, NGINX, serveur ftps)
+                    <span className="bold">Mise en place d'un cluster d'applications web </span> (Wordpress, phpMyAdmin, Grafana)
                 </li>
                 <ul>
                     <li className="bold">
@@ -73,13 +59,13 @@ const Projets = () => {
                         Projet en groupe de 3
                     </li>
                     <li>
-                        Serveur répondant a des requêtes d'un client IRC
+                        Serveur répondant à des requêtes d'un client IRC
                     </li>
                     <li>
                         Envoi de messages entre utilisateurs
                     </li>
                     <li>
-                        Creation de canaux de discussion
+                        Création de canaux de discussion
                     </li>
                     <li>
                         Gestion des utilisateurs dans les canaux par les superusers (ban, mute, promote)
@@ -97,7 +83,7 @@ const Projets = () => {
                     <span className="bold">Logiciel de rendu d'image 3D </span>en C utilisant la technique du <span className="bold">Raytracing</span>
                 </li>
                 <li>
-                    <span className="bold">Logiciel de simulation </span> de transfert de paquets de données dans un réseau selon l'algorithme du Leaky Bucket
+                    <span className="bold">Logiciel de simulation </span> de transfert de paquets de données dans un réseau selon l'algorithme du <span className="bold">Leaky Bucket</span>
                 </li>
                 <ul>
                     <li>
@@ -133,7 +119,7 @@ const Projets = () => {
                         Déplacement d'unités
                     </li>
                     <li>
-                        Gestion de collision
+                        Gestion de collisions
                     </li>
                     <li>
                         Combat entre unités
@@ -153,7 +139,21 @@ const Projets = () => {
                         Character design
                     </li>
                     <li>
-                        Combats et intéraction avec des PNJ
+                        Combats et intéractions avec des PNJ
+                    </li>
+                </ul>
+                <li>
+                    <span className="bold">42 Rushes</span>
+                </li>
+                <ul>
+                    <li>
+                        Projets en groupe de 2 à 3
+                    </li>
+                    <li>
+                        Objectif : développer des solvers en C en un weekend
+                    </li>
+                    <li>
+                        Problèmes algorithmiques abordés : problème des n dames (backtracking), problème du plus grand carré
                     </li>
                 </ul>
             </ul>
