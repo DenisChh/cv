@@ -2,7 +2,7 @@ import pawn from '../assets/pawn.png';
 
 const Interets = () => {
     return (
-        <div className="Section">
+        <div className="Section" id="Hobbies">
         <div className="Header">
           <img src={pawn} width={30} height={30} alt="pawn" />
           <div>

@@ -14,11 +14,9 @@ body {
   font-size: 16px;
 }
 
-.Pages {
-}
+.Pages {}
 
-#FirstPage {
-}
+#FirstPage {}
 
 .Profile {
   display: flex;
@@ -40,6 +38,7 @@ body {
 #Profile {
   width: 60%;
   height: 100%;
+  padding: 20px;
 }
 
 .Main {
@@ -57,8 +56,19 @@ body {
   width: 35%;
 }
 
-.Contact {
+#Contact {
+  padding: 20px;
+}
 
+#Hobbies {
+  padding: 20px;
+}
+
+#Languages {
+  padding: 20px;
+}
+
+.Contact {
 }
 
 .ContactEntry {
@@ -67,6 +77,7 @@ body {
 
 #Skills {
   width: 60%;
+  padding: 20px;
 }
 
 .Name {
@@ -78,30 +89,24 @@ body {
 .Section {
   border: 1px solid black;
   border-radius: 20px;
-  padding: 20px;
+  padding: 10px 20px 10px 20px;
   background-color: white;
 }
 
-#SecondPage {
-}
+#SecondPage {}
 
 #Projects {
-  width: 90%;
   margin: 20px;
 }
 
-#ThirdPage {
-  width: 90%;
-  margin: 20px;
-}
+#ThirdPage {}
 
 #Xp {
-  width: 100%;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 #Formation {
-  width: 100%;
+  margin: 20px;
 }
 
 .FormationEntry {

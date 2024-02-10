@@ -5,7 +5,7 @@ import { FaEnvelope } from "react-icons/fa";
 
 const Contact = () => {
     return (
-        <div className="Section">
+        <div className="Section" id="Contact">
             <div className="Header">
                 <img src={pawn} width={30} height={30} alt="pawn" />
                 <div>

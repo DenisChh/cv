@@ -1,6 +1,6 @@
 import bishop from '../assets/bishop.png';
 
-const Projets = () => {
+const ProjetsGroupe = () => {
     return (
         <div className="Section" id="Projects">
             <div className="Header">
@@ -52,7 +52,7 @@ const Projets = () => {
                     </li>
                 </ul>
                 <li className="bold">
-                    Mise en place d'un serveur IRC
+                    Serveur IRC
                 </li>
                 <ul>
                     <li>
@@ -71,17 +71,14 @@ const Projets = () => {
                         Gestion des utilisateurs dans les canaux par les superusers (ban, mute, promote)
                     </li>
                 </ul>
-                <li className="bold">
-                    Creation d'un shell interprétant des commandes bash
-                </li>
+                {/*<li className="bold">
+                    Shell interprétant des commandes bash
+    </li>
                 <ul>
                     <li>
                         Projet en groupe de 2
                     </li>
-                </ul>
-                <li>
-                    <span className="bold">Logiciel de rendu d'image 3D </span>en C utilisant la technique du <span className="bold">Raytracing</span>
-                </li>
+    </ul>
                 <li>
                     <span className="bold">Logiciel de simulation </span> de transfert de paquets de données dans un réseau selon l'algorithme du <span className="bold">Leaky Bucket</span>
                 </li>
@@ -155,10 +152,10 @@ const Projets = () => {
                     <li>
                         Problèmes algorithmiques abordés : problème des n dames (backtracking), problème du plus grand carré
                     </li>
-                </ul>
+    </ul>*/}
             </ul>
         </div>
     )
 }
 
-export default Projets;
+export default ProjetsGroupe;

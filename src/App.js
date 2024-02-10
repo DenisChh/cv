@@ -5,9 +5,10 @@ import Interets from './components/Interets';
 import Languages from './components/Languages';
 import Profil from './components/Profil';
 import Experience from './components/Experience';
-import Projets from './components/Projets';
+import ProjetsGroupe from './components/ProjetsGroupe';
 import Competences from './components/Competences';
 import Formation from './components/Formation';
+import ProjetsSolo from './components/ProjetsSolo';
 
 function App() {
   return (
@@ -24,12 +25,13 @@ function App() {
         </div >
       </div>
       <div className="Pages" id="SecondPage">
-          <Projets />
+        <Experience />
+        <ProjetsGroupe />
+        <Formation />
       </div>
+      {/*
       <div className="Pages" id="ThirdPage">
-          <Experience />
-          <Formation />
-      </div>
+  </div> */}
     </div >
   );
 }
