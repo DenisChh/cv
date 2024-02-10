@@ -1,7 +1,7 @@
 import pawn from '../assets/pawn.png';
 import { AiFillHome } from "react-icons/ai";
-import { AiOutlinePhone } from "react-icons/ai";
-import { AiFillMail } from "react-icons/ai";
+import { FaPhone } from "react-icons/fa";
+import { FaEnvelope } from "react-icons/fa";
 
 const Contact = () => {
     return (
@@ -27,7 +27,7 @@ const Contact = () => {
             </div>
             <div className="ContactEntry">
                 <div className='IconWithText'>
-                    <AiFillMail />
+                    <FaEnvelope />
                     <div>
                         chheangdenis@gmail.com
                     </div>
@@ -35,7 +35,7 @@ const Contact = () => {
             </div>
             <div className="ContactEntry">
                 <div className='IconWithText'>
-                    <AiOutlinePhone />
+                    <FaPhone />
                     <div>
                         0749575164
                     </div>
