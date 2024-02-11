@@ -68,7 +68,7 @@ const ProjetsGroupe = () => {
                         Création de canaux de discussion
                     </li>
                     <li>
-                        Gestion des utilisateurs dans les canaux par les superusers (ban, mute, promote)
+                        Gestion des utilisateurs dans les canaux par les superusers (kick, ban, mute, promote)
                     </li>
                 </ul>
                 {/*<li className="bold">
