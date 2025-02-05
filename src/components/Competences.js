@@ -94,7 +94,7 @@ const Competences = () => {
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
-                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
                                 <div className="Whitequartile" />
                             </div>
                             <div className="Language">
@@ -228,7 +228,7 @@ const Competences = () => {
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
                                 <div className="Greenquartile" />
-                                <div className="Greenquartile" />
+                                <div className="Whitequartile" />
                                 <div className="Whitequartile" />
                             </div>
                             <div className="Language">
@@ -290,7 +290,7 @@ const Competences = () => {
                         Outils
                     </span>
                     <div>
-                        Github, Trello, Vim, VSCode, Pgadmin
+                        Github, Trello, Vim, VSCode
                     </div>
                 </li>
                 <li className="SkillCategory">

@@ -9,32 +9,41 @@ const Experience = () => {
             </div>
             <div className="Row">
                 <div className="XPDate">
-                    Juin 2023 - Janvier 2023
+                    Juin 2023 - Janvier 2024
                 </div>
                 <div>
                     <div className="Title">
                         Développeur full-stack
                     </div>
+                    <div>
+                        100%Kosher, Paris (75)
+                    </div>
                 </div>
             </div>
             <ul>
                 <li>
-                    Analyse des besoins du client et mise en place de solutions techniques répondant à ces besoins
+                    Analyse des besoins du client et mise en place de solutions techniques
                 </li>
                 <li>
-                    Rédaction du cahier des charges technique
+                    Rédaction du <span className="bold">cahier des charges technique</span>
+                </li>
+                <li>
+                    Mise en place de la structure du projet
+                </li>
+                <li>
+                    Analyse du budget technique et <span className="bold">pricing</span> de l'application
                 </li>
                 <li>
                     Développement de l' <span className="bold"> UI </span> et de l'<span className="bold"> UX</span> en  <span className="bold"> React Native </span>
                 </li>
                 <li>
-                    Mise en place de l'<span className="bold"> API </span> en <span className="bold">NestJS</span>
+                    Conception de l'<span className="bold"> API </span> en <span className="bold">NestJS</span>
                 </li>
                 <li>
-                    Mise en place de la <span className="bold">base de données </span> en <span className="bold">PostgreSQL</span>
+                    Conception de la <span className="bold">base de données </span> en <span className="bold">PostgreSQL</span>
                 </li>
                 <li>
-                    Développement d'une interface de gestion de base de données pour le <span className="bold">backoffice</span> en <span className="bold">ReactJS</span>
+                    Mise en place d'un <span className="bold">Backoffice</span> en <span className="bold">ReactJS</span>
                 </li>
                 <li>
                     Intégration d'un système d'<span className="bold">authentification via Firebase, Oauth2 et JWT Tokens</span>
@@ -44,9 +53,6 @@ const Experience = () => {
                 </li>
                 <li>
                     Hébergement du backend et du backoffice via <span className="bold">Microsoft Azure</span>
-                </li>
-                <li>
-                    Tests, scaling et maintenance de l'application
                 </li>
             </ul>
         </div>

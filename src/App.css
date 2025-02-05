@@ -66,6 +66,7 @@ body {
 
 #Languages {
   padding: 20px;
+  height: 150px;
 }
 
 .Contact {
@@ -87,6 +88,15 @@ body {
 }
 
 .Section {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px 20px 10px 20px;
+  background-color: white;
+}
+
+.Aside {
+  display: flex;
+  flex-direction: column;
   border: 1px solid black;
   border-radius: 20px;
   padding: 10px 20px 10px 20px;

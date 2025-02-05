@@ -9,20 +9,20 @@ const ProjetsSolo = () => {
             </div>
             <ul>
                 <li>
-                    <span className="bold">Mise en place d'un cluster d'applications web </span> (Wordpress, phpMyAdmin, Grafana)
+                    <span className="bold">Mise en place d'un cluster d'applications web avec Kubernetes </span>
                 </li>
                 <ul>
                     <li className="bold">
-                        Kubernetes
+                        Dockering des applications Wordpress, phpMyAdmin et Grafana
                     </li>
                     <li className="bold">
-                        Metallb
+                        Load balancing via Metallb
                     </li>
                     <li className="bold">
-                        Containers Docker
+                        Mise en place de serveurs NGINX et ftps
                     </li>
                     <li className="bold">
-                        Serveurs NGINX et ftps
+                        
                     </li>
                 </ul>
                 <li>

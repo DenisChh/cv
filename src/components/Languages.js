@@ -2,7 +2,7 @@ import pawn from '../assets/pawn.png';
 
 const Languages = () => {
     return (
-        <div className="Section" id="Languages">
+        <div className="Aside" id="Languages">
             <div className="Header">
                 <img src={pawn} width={30} height={30} alt="pawn" />
                 <div> Languages </div>
