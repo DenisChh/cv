@@ -22,7 +22,6 @@ const Projects = () => {
                     {/*<Minirt />*/}
                 </ul>
             </div>
-            {/*
             <div className="Section">
                 <ul>
                     <Minirt />
@@ -30,7 +29,6 @@ const Projects = () => {
                     <Roguelike />
                 </ul>
             </div>
-            */}
         </>
     )
 }

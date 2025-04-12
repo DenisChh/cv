@@ -11,10 +11,10 @@ const Experience = () => {
                 Expérience professionnelle
             </div>
             <ul className="JobsContainer">
-                <li className="JobEntry">
+                <li>
                     <Kosherapp />
                 </li>
-                {/*<li class="JobEntry">
+                {/*<li>
                     <Animation />
                 </li>*/}
             </ul>
