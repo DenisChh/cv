@@ -19,3 +19,9 @@
     display: flex;
     flex-direction: column;
 }
+
+.Row {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+  }

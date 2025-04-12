@@ -1,8 +1,8 @@
 const Pong = () => {
     return (
-        <>
+        <div className='ProjectEntry'>
             <li>
-                <span className="bold">Pong en ligne</span>
+                <span className="Title">Pong en ligne</span>
             </li>
             <ul>
                 <li>
@@ -30,7 +30,7 @@ const Pong = () => {
                     Conception de la base de données en <span className="bold">PostgreSQL</span>
                 </li>
             </ul>
-        </>
+        </div>
     )
 }
 

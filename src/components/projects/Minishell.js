@@ -1,7 +1,7 @@
 const Minishell = () => {
     return (
-        <>
-            <li className="bold">
+        <div className='ProjectEntry'>
+            <li className="Title">
                 Minishell
             </li>
             <ul>
@@ -9,6 +9,6 @@ const Minishell = () => {
                     Développement d'un prompt shell simplifié basé sur bash
                 </li>
             </ul>
-        </>
+        </div>
     )
 }

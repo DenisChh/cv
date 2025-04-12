@@ -18,7 +18,7 @@ const Profil = () => {
         </div>
         <div>
           <div className="Title">
-            Développeur web et mobile
+            Développeur fullstack React / NestJS
           </div>
           <div className="Text">
             Après 3 ans de formation à l'école 42 à Paris, j'ai été en charge de la conception intégrale d'une application mobile en tant que développeur indépendant pendant 8 mois.

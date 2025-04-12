@@ -10,7 +10,7 @@ const Competences = () => {
             </div>
             <ul>
                 <li className="SkillCategory">
-                    <span className="bold">
+                    <span className="Title">
                         Languages
                     </span>
                     <div className="Wrap">
@@ -69,7 +69,7 @@ const Competences = () => {
                     </div>
                 </li>
                 <li className="SkillCategory">
-                    <span className="bold">
+                    <span className="Title">
                         Librairies/Frameworks
                     </span>
                     <div className="Wrap">
@@ -118,7 +118,7 @@ const Competences = () => {
                     </div>
                 </li>
                 <li className="SkillCategory">
-                    <span className="bold">
+                    <span className="Title">
                         DevOps
                     </span>
                     <div className="Wrap">
@@ -161,7 +161,7 @@ const Competences = () => {
                     </div>
                 </li>
                 <li className="SkillCategory">
-                    <span className="bold">
+                    <span className="Title">
                         Outils
                     </span>
                     <div>
@@ -169,7 +169,7 @@ const Competences = () => {
                     </div>
                 </li>
                 <li className="SkillCategory">
-                    <span className="bold">
+                    <span className="Title">
                         Autres
                     </span>
                     <div>

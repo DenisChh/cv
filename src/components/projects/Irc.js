@@ -1,7 +1,7 @@
 const Irc = () => {
     return (
-        <>
-            <li className="bold">
+        <div className='ProjectEntry'>
+            <li className="Title">
                 Serveur IRC en C
             </li>
             <ul>
@@ -20,7 +20,7 @@ const Irc = () => {
                     </li>
                 </ul>
             </ul>
-        </>
+        </div>
     )
 }
 

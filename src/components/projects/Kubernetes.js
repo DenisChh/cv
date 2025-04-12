@@ -1,8 +1,8 @@
 const Kubernetes = () => {
     return (
-        <>
+        <div className='ProjectEntry'>
             <li>
-                <span className="bold">Cluster d'applications web avec Kubernetes </span>
+                <span className="Title">Cluster d'applications web avec Kubernetes </span>
             </li>
             <ul>
                 <li>
@@ -18,7 +18,7 @@ const Kubernetes = () => {
                     <span className="bold">Monitoring</span> des applications via <span className="bold">Telegraf</span>
                 </li>
             </ul>
-        </>
+        </div>
     )
 }
 

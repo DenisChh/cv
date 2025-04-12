@@ -28,9 +28,6 @@ function App() {
         <Projects />
         <Formation />
       </div>
-      {/*
-      <div className="Pages" id="ThirdPage">
-  </div> */}
     </div >
   );
 }

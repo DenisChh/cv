@@ -1,8 +1,8 @@
 const Minirt = () => {
     return (
-        <>
+        <div className='ProjectEntry'>
             <li>
-                <span className="bold"> Minirt, logiciel de rendu d'image 3D exploitant la technique du raytracing en C</span>
+                <span className="Title"> Minirt, logiciel de rendu d'image 3D exploitant la technique du raytracing en C</span>
             </li>
             <ul>
                 <li>
@@ -21,7 +21,7 @@ const Minirt = () => {
                     Mise en place de hooks permettant à l'utilisateur de se déplacer dans la scène et de modifier la position et l'orientation des objets dans la scène
                 </li>
             </ul>
-        </>
+        </div>
     )
 }
 

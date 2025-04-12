@@ -1,8 +1,8 @@
 const LeakyBucket = () => {
     return (
-        <>
+        <div className='ProjectEntry'>
             <li>
-                <span className="bold">Logiciel de simulation </span> de transfert de paquets de données dans un réseau selon l'algorithme du <span className="bold">Leaky Bucket</span>
+                <span className="Title">Logiciel de simulation </span> de transfert de paquets de données dans un réseau selon l'algorithme du <span className="bold">Leaky Bucket</span>
             </li>
             <ul>
                 <li>
@@ -18,6 +18,6 @@ const LeakyBucket = () => {
                     Chargement/sauvegarde de simulations dans des fichiers
                 </li>
             </ul>
-        </>
+        </div>
     )
 }

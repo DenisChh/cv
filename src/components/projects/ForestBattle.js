@@ -1,7 +1,7 @@
 const ForestBattle = () => {
     return (
-        <>
-            <li className="bold">
+        <div className='ProjectEntry'>
+            <li className="Title">
                 Jeu de strategie 2D en C++
             </li>
             <ul>
@@ -18,7 +18,7 @@ const ForestBattle = () => {
                     Déplacement et combat entre unités
                 </li>
             </ul>
-        </>
+        </div>
     )
 }
 
