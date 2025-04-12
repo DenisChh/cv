@@ -1,13 +1,10 @@
 #Formation {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
     margin: 20px;
 }
 
 .FormationEntry {
     display: flex;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .Date {

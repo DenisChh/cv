@@ -1,3 +1,7 @@
+#Xp {
+    margin: 20px;
+  }
+
 .JobsContainer {
     display: flex;
     flex-direction: column;

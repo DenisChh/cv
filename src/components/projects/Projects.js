@@ -19,16 +19,17 @@ const Projects = () => {
                     <Pong />
                     <Kubernetes />
                     <Irc />
-                    <Minirt />
+                    {/*<Minirt />*/}
                 </ul>
             </div>
+            {/*
             <div className="Section">
                 <ul>
                     <ForestBattle />
                     <Roguelike />
                 </ul>
             </div>
-
+            */}
         </>
     )
 }
