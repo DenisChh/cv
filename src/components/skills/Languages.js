@@ -10,13 +10,10 @@ const Languages = () => {
             </div>
             <ul>
                 <li>
-                    Anglais (B2)
+                    Anglais niveau B2
                 </li>
                 <li>
                     Français
-                </li>
-                <li>
-                    Cambodgien
                 </li>
             </ul>
         </div>
