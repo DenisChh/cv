@@ -13,7 +13,7 @@ const Formation = () => {
                     2020 - 2023
                 </div>
                 <div>
-                    <div className='row'>
+                    <div className='TitleLocationrow'>
                         <div className="bold">
                             Ecole 42
                         </div>
@@ -30,7 +30,7 @@ const Formation = () => {
                 <div className="Date">
                     Obtenu en 2020
                 </div>
-                <div className='row'>
+                <div className='TitleLocationrow'>
                     <div className="bold">
                         Licence Informatique
                     </div>
@@ -46,7 +46,7 @@ const Formation = () => {
                 <div className="Date">
                     2010 - 2014
                 </div>
-                <div className='row'>
+                <div className='TitleLocationrow'>
                     <div className="bold">
                         Etudes de médecine et de psychologie
                     </div>
@@ -62,7 +62,7 @@ const Formation = () => {
                 <div className="Date">
                     Obtenu en 2010
                 </div>
-                <div className='row'>
+                <div className='TitleLocationrow'>
                     <div className='column'>
                         <div className="bold">
                             Bac S spé Maths, Européenne Anglais

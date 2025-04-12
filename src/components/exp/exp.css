@@ -13,10 +13,19 @@
     margin-bottom: 10px;
 }
 
+#Xp {
+    margin: 20px;
+}
+
 .XpHeader {
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
+}
+
+.XPDate {
+    font-weight: bold;
+    width: 230px;
 }
 
 .Animation {
@@ -27,5 +36,6 @@
 .Row {
     display: flex;
     flex-direction: row;
+    gap: 30px;
     font-size: 18px;
-  }
+}

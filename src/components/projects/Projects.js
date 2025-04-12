@@ -25,6 +25,7 @@ const Projects = () => {
             {/*
             <div className="Section">
                 <ul>
+                    <Minirt />
                     <ForestBattle />
                     <Roguelike />
                 </ul>

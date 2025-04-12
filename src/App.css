@@ -76,11 +76,6 @@ body {
   font-size: 18px;
 }
 
-.XPDate {
-  font-weight: bold;
-  width: 230px;
-}
-
 .Language {
   display: flex;
   height: 30px;
@@ -123,4 +118,9 @@ li {
 .Logo {
   width: 100;
   height: 100;
+}
+
+.TitleLocationrow {
+  display: flex;
+  gap: 10px;
 }

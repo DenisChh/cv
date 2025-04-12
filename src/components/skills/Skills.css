@@ -3,6 +3,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     height: 120px;
+    margin-left: -30px;
   }
 
   #Skills {
@@ -14,3 +15,11 @@
   .SkillCategory {
     margin-bottom: 20px;
   }
+
+  .Row {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 18px;
+    margin-left: 20px;
+}

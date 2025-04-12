@@ -7,7 +7,17 @@ const Kosherapp = () => {
                 </div>
                 <div className='XpHeader'>
                     <div className='bold'>Développeur fullstack</div>
-                    <div className='italic'>100%Kosher, app alimentaire - Paris (75)</div>
+                    <div className='TitleLocationrow'>
+                        <div>
+                            100%Kosher, app alimentaire
+                        </div>
+                        <div>
+                            - 
+                        </div>
+                        <div className='italic'>
+                            Alfortville (94)
+                        </div>
+                    </div>
                 </div>
             </div>
             <ul>
