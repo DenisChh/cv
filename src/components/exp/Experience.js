@@ -14,9 +14,6 @@ const Experience = () => {
                 <li class="JobEntry">
                     <Kosherapp />
                 </li>
-                <li class="JobEntry">
-                    <Animation />
-                </li>
             </ul>
         </div>
 
