@@ -10,8 +10,8 @@ const Experience = () => {
                 <img src={queen} width={30} height={30} alt="pawn" />
                 Expérience professionnelle
             </div>
-            <ul class="JobsContainer">
-                <li class="JobEntry">
+            <ul className="JobsContainer">
+                <li className="JobEntry">
                     <Kosherapp />
                 </li>
                 {/*<li class="JobEntry">
