@@ -1,5 +1,6 @@
 import knight from '../../assets/knight.png';
 import SkillLevel from '../utils/SkillLevel';
+import './Skills.css'
 
 const Competences = () => {
     return (

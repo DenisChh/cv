@@ -1,4 +1,5 @@
 import pawn from '../../assets/pawn.png';
+import './Languages.css'
 
 const Languages = () => {
     return (

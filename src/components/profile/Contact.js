@@ -2,6 +2,7 @@ import pawn from '../../assets/pawn.png';
 import { AiFillHome } from "react-icons/ai";
 import { FaPhone } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
+import './Contact.css'
 
 const Contact = () => {
     return (
@@ -12,32 +13,34 @@ const Contact = () => {
                     Contact
                 </div>
             </div>
-            <div className="ContactEntry">
-                <div className="IconWithText">
-                    <AiFillHome />
-                    <div>
+            <div className='ContactMain'>
+                <div className="ContactEntry">
+                    <div className="IconWithText">
+                        <AiFillHome />
                         <div>
-                            6 bis rue de la Fraternité
-                        </div>
-                        <div>
-                            91200 Athis-Mons
+                            <div>
+                                6 bis rue de la Fraternité
+                            </div>
+                            <div>
+                                91200 Athis-Mons
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div className="ContactEntry">
-                <div className='IconWithText'>
-                    <FaEnvelope />
-                    <div>
-                        chheangdenis@gmail.com
+                <div className="ContactEntry">
+                    <div className='IconWithText'>
+                        <FaEnvelope />
+                        <div>
+                            chheangdenis@gmail.com
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div className="ContactEntry">
-                <div className='IconWithText'>
-                    <FaPhone />
-                    <div>
-                        0749575164
+                <div className="ContactEntry">
+                    <div className='IconWithText'>
+                        <FaPhone />
+                        <div>
+                            0749575164
+                        </div>
                     </div>
                 </div>
             </div>

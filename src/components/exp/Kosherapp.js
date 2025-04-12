@@ -6,9 +6,8 @@ const Kosherapp = () => {
                     Juin 2023 - Janvier 2024
                 </div>
                 <div className='XpHeader'>
-                    <div>
-                        <span className='bold'>Développeur fullstack</span>, <span className='italic'>Paris (75)</span>
-                    </div>
+                    <div className='bold'>Développeur fullstack</div>
+                    <div className='italic'>100%Kosher, Paris (75)</div>
                 </div>
             </div>
             <ul>

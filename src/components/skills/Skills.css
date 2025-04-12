@@ -1,0 +1,16 @@
+.Wrap {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 120px;
+  }
+
+  #Skills {
+    width: 60%;
+    margin: 0px;
+    padding: 20px;
+  }
+
+  .SkillCategory {
+    margin-bottom: 20px;
+  }

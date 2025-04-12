@@ -1,4 +1,5 @@
 import pawn from '../../assets/pawn.png';
+import './Hobbies.css'
 
 const Interets = () => {
   return (
@@ -11,13 +12,10 @@ const Interets = () => {
       </div>
       <ul>
         <li>
-          Jeux-vidéos
+          Jeux
         </li>
         <li>
-          Jeux de société
-        </li>
-        <li>
-          Animés, Séries
+          Animation
         </li>
         <li>
           Guitare

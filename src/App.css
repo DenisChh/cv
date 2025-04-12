@@ -29,29 +29,6 @@ body {
   width: 35%;
 }
 
-#Contact {
-  padding: 20px;
-}
-
-#Hobbies {
-  padding: 20px;
-}
-
-#Languages {
-  padding: 20px;
-  height: 150px;
-}
-
-.ContactEntry {
-  margin-bottom: 5px;
-}
-
-#Skills {
-  width: 60%;
-  margin: 0px;
-  padding: 20px;
-}
-
 .Name {
   color: white;
   font-size: 25px;
@@ -108,13 +85,6 @@ body {
   width: 230px;
 }
 
-.Wrap {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  height: 120px;
-}
-
 .Language {
   display: flex;
   height: 30px;
@@ -123,10 +93,6 @@ body {
   align-items: center;
   font-size: 15px;
   margin-left: 10px;
-}
-
-.SkillCategory {
-  margin-bottom: 10px;
 }
 
 .ListTechno {

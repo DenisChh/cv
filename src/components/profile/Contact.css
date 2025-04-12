@@ -1,0 +1,18 @@
+#Contact {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 20px;
+    height: 200px;
+}
+
+.ContactMain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.ContactEntry {
+    margin-bottom: 5px;
+}
