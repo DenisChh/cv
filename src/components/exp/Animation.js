@@ -7,7 +7,12 @@ const Animation = () => {
                 </div>
                 <div className='XpHeader'>
                     <div>
-                        <span className='bold'>Animateur périscolaire</span>, <span className='italic'>Trappes (78)</span>
+                        <div className='bold'>Animateur périscolaire</div>
+                        <div className='TitleLocationrow'>
+                            <div>
+                                Mairie de Trappes (78)
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

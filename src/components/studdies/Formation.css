@@ -14,8 +14,3 @@
     font-weight: bold;
     width: 150px;
 }
-
-.row {
-    display: flex;
-    gap: 10px;
-}

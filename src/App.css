@@ -52,10 +52,6 @@ body {
   background-color: white;
 }
 
-#Xp {
-  margin: 20px;
-}
-
 .Header {
   display: flex;
   align-items: center;
@@ -78,11 +74,6 @@ body {
 .Title {
   font-weight: bold;
   font-size: 18px;
-}
-
-.XPDate {
-  font-weight: bold;
-  width: 230px;
 }
 
 .Language {
@@ -127,4 +118,9 @@ li {
 .Logo {
   width: 100;
   height: 100;
+}
+
+.TitleLocationrow {
+  display: flex;
+  gap: 10px;
 }
