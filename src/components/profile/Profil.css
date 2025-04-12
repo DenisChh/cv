@@ -1,0 +1,23 @@
+.Profile {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+  }
+  
+  .Avatar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 100%;
+    gap: 10px;
+    margin-right: 10px;
+  }
+  
+  #Profile {
+    width: 60%;
+    height: 100%;
+    margin: 0px;
+    padding: 20px;
+  }

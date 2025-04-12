@@ -1,4 +1,4 @@
-import knight from '../assets/knight.png';
+import knight from '../../assets/knight.png';
 
 const Competences = () => {
     return (
@@ -129,7 +129,7 @@ const Competences = () => {
                                 <div className="Whitequartile" />
                             </div>
                             <div className="Language">
-                                ReactJS
+                                React
                             </div>
                         </div>
                         <div className="Row">

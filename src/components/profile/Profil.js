@@ -1,5 +1,6 @@
-import king from '../assets/king.png';
-import photo from '../assets/photo.jpeg'
+import king from '../../assets/king.png';
+import photo from '../../assets/photo.jpeg'
+import './Profil.css'
 
 const Profil = () => {
   return (
@@ -17,7 +18,7 @@ const Profil = () => {
         </div>
         <div>
           <div className="Title">
-            Développeur web et mobile full-stack
+            Développeur web et mobile
           </div>
           <div className="Text">
             Après 3 ans de formation à l'école 42 à Paris, j'ai été en charge de la conception intégrale d'une application mobile en tant que développeur indépendant pendant 8 mois.

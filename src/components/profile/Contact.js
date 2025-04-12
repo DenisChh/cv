@@ -1,4 +1,4 @@
-import pawn from '../assets/pawn.png';
+import pawn from '../../assets/pawn.png';
 import { AiFillHome } from "react-icons/ai";
 import { FaPhone } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";

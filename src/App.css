@@ -14,33 +14,6 @@ body {
   font-size: 16px;
 }
 
-.Pages {}
-
-#FirstPage {}
-
-.Profile {
-  display: flex;
-  margin: 20px;
-  justify-content: center;
-}
-
-.Avatar {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 35%;
-  height: 100%;
-  gap: 10px;
-  margin-right: 10px;
-}
-
-#Profile {
-  width: 60%;
-  height: 100%;
-  padding: 20px;
-}
-
 .Main {
   display: flex;
   flex-direction: row;
@@ -69,15 +42,13 @@ body {
   height: 150px;
 }
 
-.Contact {
-}
-
 .ContactEntry {
   margin-bottom: 5px;
 }
 
 #Skills {
   width: 60%;
+  margin: 0px;
   padding: 20px;
 }
 
@@ -90,6 +61,7 @@ body {
 .Section {
   border: 1px solid black;
   border-radius: 20px;
+  margin: 20px;
   padding: 10px 20px 10px 20px;
   background-color: white;
 }
@@ -102,14 +74,6 @@ body {
   padding: 10px 20px 10px 20px;
   background-color: white;
 }
-
-#SecondPage {}
-
-#Projects {
-  margin: 20px;
-}
-
-#ThirdPage {}
 
 #Xp {
   margin: 20px;
@@ -220,6 +184,10 @@ li {
 
 .bold {
   font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .Logo {

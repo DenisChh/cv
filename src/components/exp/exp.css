@@ -1,0 +1,21 @@
+.JobsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.JobEntry {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.XpHeader {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.Animation {
+    display: flex;
+    flex-direction: column;
+}

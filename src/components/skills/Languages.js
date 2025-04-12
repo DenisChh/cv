@@ -1,4 +1,4 @@
-import pawn from '../assets/pawn.png';
+import pawn from '../../assets/pawn.png';
 
 const Languages = () => {
     return (
@@ -12,10 +12,10 @@ const Languages = () => {
                     Anglais (B2)
                 </li>
                 <li>
-                    Français (Maternelle)
+                    Français
                 </li>
                 <li>
-                    Cambodgien (Courant)
+                    Cambodgien
                 </li>
             </ul>
         </div>

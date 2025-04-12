@@ -1,4 +1,4 @@
-import pawn from '../assets/pawn.png';
+import pawn from '../../assets/pawn.png';
 
 const Interets = () => {
   return (

@@ -1,22 +1,13 @@
-import queen from '../assets/queen.png';
-
-const Experience = () => {
+const Kosherapp = () => {
     return (
-        <div className="Section" id="Xp">
-            <div className="Header">
-                <img src={queen} width={30} height={30} alt="pawn" />
-                Expérience professionnelle
-            </div>
+        <>
             <div className="Row">
                 <div className="XPDate">
                     Juin 2023 - Janvier 2024
                 </div>
-                <div>
-                    <div className="Title">
-                        Développeur full-stack
-                    </div>
+                <div className='XpHeader'>
                     <div>
-                        100%Kosher, Paris (75)
+                        <span className='bold'>Développeur fullstack</span>, <span className='italic'>Paris (75)</span>
                     </div>
                 </div>
             </div>
@@ -55,9 +46,8 @@ const Experience = () => {
                     Hébergement du backend et du backoffice via <span className="bold">Microsoft Azure</span>
                 </li>
             </ul>
-        </div>
-
+        </>
     )
 }
 
-export default Experience;
+export default Kosherapp;

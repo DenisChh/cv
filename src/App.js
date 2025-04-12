@@ -1,14 +1,13 @@
 import './App.css';
 
-import Contact from './components/Contact';
-import Interets from './components/Interets';
-import Languages from './components/Languages';
-import Profil from './components/Profil';
-import Experience from './components/Experience';
-import ProjetsGroupe from './components/ProjetsGroupe';
-import Competences from './components/Competences';
-import Formation from './components/Formation';
-import ProjetsSolo from './components/ProjetsSolo';
+import Contact from './components/profile/Contact';
+import Interets from './components/hobbies/Interets';
+import Languages from './components/skills/Languages';
+import Profil from './components/profile/Profil';
+import Experience from './components/exp/Experience';
+import Projects from './components/projects/Projects';
+import Competences from './components/skills/Competences';
+import Formation from './components/studdies/Formation';
 
 function App() {
   return (
@@ -26,7 +25,7 @@ function App() {
       </div>
       <div className="Pages" id="SecondPage">
         <Experience />
-        <ProjetsGroupe />
+        <Projects />
         <Formation />
       </div>
       {/*

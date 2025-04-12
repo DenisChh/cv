@@ -1,4 +1,4 @@
-import bishop from '../assets/bishop.png';
+import bishop from '../../assets/bishop.png';
 
 const ProjetsSolo = () => {
     return (
