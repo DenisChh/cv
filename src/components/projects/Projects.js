@@ -10,7 +10,7 @@ import './projects.css'
 const Projects = () => {
     return (
         <>
-            <div className="Section" id="Projects">
+            <div className="Section" id="pageBreak">
                 <div className="Header">
                     <img src={bishop} width={30} height={30} alt="pawn" />
                     Projets
@@ -19,8 +19,14 @@ const Projects = () => {
                     <Pong />
                     <Kubernetes />
                     <Irc />
+                    <Minirt />
                 </ul>
             </div>
+            <div className="Section">
+                <ForestBattle />
+                <Roguelike />
+            </div>
+
         </>
     )
 }
