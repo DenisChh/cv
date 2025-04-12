@@ -23,8 +23,10 @@ const Projects = () => {
                 </ul>
             </div>
             <div className="Section">
-                <ForestBattle />
-                <Roguelike />
+                <ul>
+                    <ForestBattle />
+                    <Roguelike />
+                </ul>
             </div>
 
         </>
